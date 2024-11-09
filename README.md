@@ -1,6 +1,6 @@
-### Hi there 👋
+I'm a software engineer at [Anduril Industries](anduril.com).
 
-I'm a Haskell consultant at [@Well-Typed LLP](https://github.com/well-typed). Much of my work focuses on [optimizing Haskell applications](https://well-typed.com/blog/2023/08/reducing-haddock-memory-usage/), though I often find myself doing [other things](https://github.com/well-typed/snappy-c) as well.
+Previously, I was a Haskell consultant at [@Well-Typed LLP](https://github.com/well-typed).
 
 <!--
 **FinleyMcIlwaine/FinleyMcIlwaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
