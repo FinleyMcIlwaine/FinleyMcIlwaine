@@ -1,4 +1,4 @@
-I'm a software engineer at [Anduril Industries](https://anduril.com).
+Embedded software-defined radio systems at [Anduril Industries](https://anduril.com).
 
 Previously, I was a Haskell consultant at [@Well-Typed LLP](https://github.com/well-typed).
 
